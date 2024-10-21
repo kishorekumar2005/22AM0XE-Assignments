@@ -39,7 +39,8 @@
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/3534a25d-555b-4ae0-bdff-491be22a65a8)
+
 
 ***
 
