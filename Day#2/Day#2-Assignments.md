@@ -33,7 +33,8 @@
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/698dc539-22ff-4e4d-b2c5-6467566260c8)
+
 
 ***
 
