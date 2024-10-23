@@ -78,7 +78,7 @@ Cloud Hosted Platform - AWS cloud
 ***
 
 #### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+https://github.com/kishorekumar2005/22AM0XE-Assignments/blob/7376221CS203/Day%231/Day%231-Assignments.md
 
 ***
 
