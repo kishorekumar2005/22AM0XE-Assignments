@@ -78,7 +78,7 @@
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
 
-https://www.linkedin.com/in/kishore-r-899560278/recent-activity/all/
+https://www.linkedin.com/posts/kishore-r-899560278_i-just-completed-an-incredibly-insightful-activity-7254803848609837056-GXJl?utm_source=share&utm_medium=member_desktop
 ![image](https://github.com/user-attachments/assets/cd7eea4d-188e-4527-964b-f84478469662)
 
 
