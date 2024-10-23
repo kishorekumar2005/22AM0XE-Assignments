@@ -36,7 +36,19 @@
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/feb53f61-c31f-4d9d-9806-8d87df0c7229)
+
+![image](https://github.com/user-attachments/assets/328073ba-b4ec-4fbf-b153-a204110b58b3)
+
+![image](https://github.com/user-attachments/assets/b7ff23b0-2946-4ba1-aac7-750da36901a0)
+
+![image](https://github.com/user-attachments/assets/86ef0fb4-03fe-4139-ae25-df1b8d783d7c)
+
+![image](https://github.com/user-attachments/assets/ec6db4a6-bbed-4e14-8310-93a5599389c0)
+
+
+
+
 
 ***
 
