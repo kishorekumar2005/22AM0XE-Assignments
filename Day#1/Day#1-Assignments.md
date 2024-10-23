@@ -36,13 +36,19 @@
 ***
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
+
 LINK - https://colab.research.google.com/drive/1DMghnQSaEmaru2EQczCjHu5HzRIrk0hg#scrollTo=7zmXqYbo4TTY
+
+1.Create a new Google Colab notebook 
 ![image](https://github.com/user-attachments/assets/feb53f61-c31f-4d9d-9806-8d87df0c7229)
 
+2.Write Python code to print "Hello, World!" in the notebook
 ![image](https://github.com/user-attachments/assets/328073ba-b4ec-4fbf-b153-a204110b58b3)
 
+3.Import the NumPy library and create a 2x2 matrix, then print it. -
 ![image](https://github.com/user-attachments/assets/b7ff23b0-2946-4ba1-aac7-750da36901a0)
 
+4.Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
 ![image](https://github.com/user-attachments/assets/86ef0fb4-03fe-4139-ae25-df1b8d783d7c)
 
 ![image](https://github.com/user-attachments/assets/ec6db4a6-bbed-4e14-8310-93a5599389c0)
