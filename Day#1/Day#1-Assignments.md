@@ -59,11 +59,11 @@
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> https://github.com/kishorekumar2005/22AM0XE-Assignments/blob/7376221CS203/Day%231/Day%231-Assignments.md
 
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/5648cae5-6f9e-439b-92db-b159b0cd8aa6)
 
 ***
