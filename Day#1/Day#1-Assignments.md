@@ -83,6 +83,7 @@ https://github.com/kishorekumar2005/22AM0XE-Assignments/blob/7376221CS203/Day%23
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/80bf3245-17e1-4def-aa34-928ed0bfa0e5)
+
 
 ***
