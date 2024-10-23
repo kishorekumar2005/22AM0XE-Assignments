@@ -37,7 +37,7 @@
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
 
-LINK - https://colab.research.google.com/drive/1DMghnQSaEmaru2EQczCjHu5HzRIrk0hg#scrollTo=7zmXqYbo4TTY
+LINK - https://colab.research.google.com/drive/1DMghnQSaEmaru2EQczCjHu5HzRIrk0hg?usp=sharing
 
 1.Create a new Google Colab notebook 
 ![image](https://github.com/user-attachments/assets/feb53f61-c31f-4d9d-9806-8d87df0c7229)
